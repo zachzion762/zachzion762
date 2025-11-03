@@ -14,7 +14,7 @@ From PLCs on factory floors to Python scripts on Raspberry Pis:
 - **Hobbyist Engineer** — circuits, sensors, relays, CAN-bus, hydroponics, 3D printing  
 - **Programmer** — Python, CircuitPython, Arduino, Linux automation, Raspberry Pi clusters  
 - **Objectivist** — pro-reason, pro-capitalism, anti-bullshit  
-- **Metalhead** — Metallica | Gojira | Slayer | Pantera | Machine Head  
+- **Metalhead** — Metallica | Gojira | Slayer | Pantera | Machine Head | Sepultura
 
 ---
 
