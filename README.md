@@ -10,7 +10,7 @@ Industrial Automation Technician | Python Builder | Systems Engineer
 I build systems that **work** — industrial, electronic, digital, or philosophical.  
 From PLCs on factory floors to Python scripts on Raspberry Pis:  
 
-- **Industrial Automation Technician** — Smucker’s Uncrustables / former Leprino Foods / Cargill  
+- **Industrial Automation Technician** — Smucker’s Uncrustables / Leprino Foods / Cargill One Protein  
 - **Hobbyist Engineer** — circuits, sensors, relays, CAN-bus, hydroponics, 3D printing  
 - **Programmer** — Python, CircuitPython, Arduino, Linux automation, Raspberry Pi clusters  
 - **Objectivist** — pro-reason, pro-capitalism, anti-bullshit  
